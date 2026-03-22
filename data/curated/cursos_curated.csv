@@ -1,0 +1,10 @@
+id_curso,curso,docente,creditos,nivel
+C200,Matemática,Lic. Hernández,3.0,Básico
+C201,Programación,Mtra. Pérez,4.0,Avanzado
+C202,Base de Datos,Mtra. Rivera,4.0,Avanzado
+C203,Redacción,Ing. López,4.0,Avanzado
+C204,Inglés,Ing. Romero,5.0,Avanzado
+C205,Física,Mtra. Pérez,4.0,Avanzado
+C207,Historia,Mtra. Rivera,4.0,Avanzado
+C208,Estadística,Lic. Castro,3.0,Básico
+C209,Ética,Mtra. Rivera,3.0,Básico
